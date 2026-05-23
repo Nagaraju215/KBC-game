@@ -9,3 +9,9 @@ A simple quiz game made using Python inspired by Kaun Banega Crorepati (KBC).
 
 ## Technologies Used
 - Python 3
+
+Concepts Used
+Lists
+Loops
+If-Else
+User Input
